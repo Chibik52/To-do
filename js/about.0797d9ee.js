@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunkto_do"]=self["webpackChunkto_do"]||[]).push([[443],{7714:function(n,o,t){t.r(o),t.d(o,{default:function(){return f}});var u=t(3396);const e={class:"about"},s=(0,u._)("h2",null,"This is demo project of to-do app using vue.js 3",-1),r=[s];function c(n,o){return(0,u.wg)(),(0,u.iD)("div",e,r)}var a=t(89);const i={},d=(0,a.Z)(i,[["render",c]]);var f=d}}]);
-//# sourceMappingURL=about.fcd1be3c.js.map
+//# sourceMappingURL=about.0797d9ee.js.map
